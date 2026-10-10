@@ -1,0 +1,6 @@
+{
+  "name": "MediSim - Detective Mode",
+  "description": "A clinical simulator detective mode for medical training.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
